@@ -1,3 +1,11 @@
+# Team 3 Project Proposal
+
+We are planning on comparing COVID-19 case rates with the vaccination rates by country to determine how they correlate.  We hope to find either a direct correlation or figure out the holes in that data that will let us establish a next step to continue analysis in future endeavors.
+
+
+
+
+
 # Guidelines for Project 1
 
 This document contains guidelines, requirements, and suggestions for Project 1.
