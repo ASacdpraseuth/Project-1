@@ -3,7 +3,7 @@
 We are planning on comparing COVID-19 case rates with the vaccination rates by country to determine how they correlate.  We hope to find either a direct correlation or figure out the holes in that data that will let us establish a next step to continue analysis in future endeavors.
 
 
-
+We will be using the M-Media-Group COVID-19 API found at https://github.com/M-Media-Group/Covid-19-API
 
 
 # Guidelines for Project 1
