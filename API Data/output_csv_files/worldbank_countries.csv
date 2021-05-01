@@ -1,0 +1,51 @@
+,country_id,name,region,incomelevel_id,incomelevel_value,latitude,longitude
+0,ABW,Aruba,Latin America & Caribbean ,HIC,High income,12.5167,-70.0167
+1,AFG,Afghanistan,South Asia,LIC,Low income,34.5228,69.1761
+2,AFR,Africa,Aggregates,NA,Aggregates,,
+3,AGO,Angola,Sub-Saharan Africa ,LMC,Lower middle income,-8.81155,13.242
+4,ALB,Albania,Europe & Central Asia,UMC,Upper middle income,41.3317,19.8172
+5,AND,Andorra,Europe & Central Asia,HIC,High income,42.5075,1.5218
+6,ARB,Arab World,Aggregates,NA,Aggregates,,
+7,ARE,United Arab Emirates,Middle East & North Africa,HIC,High income,24.4764,54.3705
+8,ARG,Argentina,Latin America & Caribbean ,UMC,Upper middle income,-34.6118,-58.4173
+9,ARM,Armenia,Europe & Central Asia,UMC,Upper middle income,40.1596,44.509
+10,ASM,American Samoa,East Asia & Pacific,UMC,Upper middle income,-14.2846,-170.691
+11,ATG,Antigua and Barbuda,Latin America & Caribbean ,HIC,High income,17.1175,-61.8456
+12,AUS,Australia,East Asia & Pacific,HIC,High income,-35.282,149.129
+13,AUT,Austria,Europe & Central Asia,HIC,High income,48.2201,16.3798
+14,AZE,Azerbaijan,Europe & Central Asia,UMC,Upper middle income,40.3834,49.8932
+15,BDI,Burundi,Sub-Saharan Africa ,LIC,Low income,-3.3784,29.3639
+16,BEA,East Asia & Pacific (IBRD-only countries),Aggregates,NA,Aggregates,,
+17,BEC,Europe & Central Asia (IBRD-only countries),Aggregates,NA,Aggregates,,
+18,BEL,Belgium,Europe & Central Asia,HIC,High income,50.8371,4.36761
+19,BEN,Benin,Sub-Saharan Africa ,LMC,Lower middle income,6.4779,2.6323
+20,BFA,Burkina Faso,Sub-Saharan Africa ,LIC,Low income,12.3605,-1.53395
+21,BGD,Bangladesh,South Asia,LMC,Lower middle income,23.7055,90.4113
+22,BGR,Bulgaria,Europe & Central Asia,UMC,Upper middle income,42.7105,23.3238
+23,BHI,IBRD countries classified as high income,Aggregates,NA,Aggregates,,
+24,BHR,Bahrain,Middle East & North Africa,HIC,High income,26.1921,50.5354
+25,BHS,"Bahamas, The",Latin America & Caribbean ,HIC,High income,25.0661,-77.339
+26,BIH,Bosnia and Herzegovina,Europe & Central Asia,UMC,Upper middle income,43.8607,18.4214
+27,BLA,Latin America & the Caribbean (IBRD-only countries),Aggregates,NA,Aggregates,,
+28,BLR,Belarus,Europe & Central Asia,UMC,Upper middle income,53.9678,27.5766
+29,BLZ,Belize,Latin America & Caribbean ,UMC,Upper middle income,17.2534,-88.7713
+30,BMN,Middle East & North Africa (IBRD-only countries),Aggregates,NA,Aggregates,,
+31,BMU,Bermuda,North America,HIC,High income,32.3293,-64.706
+32,BOL,Bolivia,Latin America & Caribbean ,LMC,Lower middle income,-13.9908,-66.1936
+33,BRA,Brazil,Latin America & Caribbean ,UMC,Upper middle income,-15.7801,-47.9292
+34,BRB,Barbados,Latin America & Caribbean ,HIC,High income,13.0935,-59.6105
+35,BRN,Brunei Darussalam,East Asia & Pacific,HIC,High income,4.94199,114.946
+36,BSS,Sub-Saharan Africa (IBRD-only countries),Aggregates,NA,Aggregates,,
+37,BTN,Bhutan,South Asia,LMC,Lower middle income,27.5768,89.6177
+38,BWA,Botswana,Sub-Saharan Africa ,UMC,Upper middle income,-24.6544,25.9201
+39,CAA,Sub-Saharan Africa (IFC classification),Aggregates,NA,Aggregates,,
+40,CAF,Central African Republic,Sub-Saharan Africa ,LIC,Low income,5.63056,21.6407
+41,CAN,Canada,North America,HIC,High income,45.4215,-75.6919
+42,CEA,East Asia and the Pacific (IFC classification),Aggregates,NA,Aggregates,,
+43,CEB,Central Europe and the Baltics,Aggregates,NA,Aggregates,,
+44,CEU,Europe and Central Asia (IFC classification),Aggregates,NA,Aggregates,,
+45,CHE,Switzerland,Europe & Central Asia,HIC,High income,46.948,7.44821
+46,CHI,Channel Islands,Europe & Central Asia,HIC,High income,,
+47,CHL,Chile,Latin America & Caribbean ,HIC,High income,-33.475,-70.6475
+48,CHN,China,East Asia & Pacific,UMC,Upper middle income,40.0495,116.286
+49,CIV,Cote d'Ivoire,Sub-Saharan Africa ,LMC,Lower middle income,5.332,-4.0305
