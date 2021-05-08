@@ -5,7 +5,8 @@ We are planning on comparing COVID-19 case rates with the vaccination rates by c
 
 We will be using the M-Media-Group COVID-19 API found at https://github.com/M-Media-Group/Covid-19-API
 
-
+Slides
+https://docs.google.com/presentation/d/1nlCVJLhpg280qRqPVXBxTwZN9lR8j9D450C5gUcq7BQ/
 # Guidelines for Project 1
 
 This document contains guidelines, requirements, and suggestions for Project 1.
